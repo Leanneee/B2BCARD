@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cashFromATMs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="107.07261%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA000" offset="0%"></stop>
+            <stop stop-color="#FFDE08" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#0090FF" offset="0%"></stop>
+            <stop stop-color="#BE2ED5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="_sources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cashFromATMs">
+            <g id="icons/cash-from-atms">
+                <circle id="Oval-2-Copy-3" fill="url(#linearGradient-1)" fill-rule="evenodd" cx="32" cy="32" r="32"></circle>
+                <g id="cash-from-atms" stroke-width="1" fill-rule="evenodd" transform="translate(14.000000, 27.000000)" fill="url(#linearGradient-2)">
+                    <path d="M32.8581857,2.94444282e-07 L4.14337553,2.94444282e-07 C3.0446276,-0.000413561725 1.9907398,0.435459411 1.21366124,1.21168836 C0.436582694,1.98791731 -7.80537231e-08,3.04088534 0,4.13884575 L0,8.86115454 C1.66392919e-15,11.1469758 1.85435345,13 4.14181435,13 L6.03084388,13 L6.03084388,8.71918886 L5.87472574,8.71918886 C5.4316911,8.71918886 5.00680202,8.5433202 4.69352922,8.23027196 C4.38025643,7.91722372 4.2042616,7.4926392 4.2042616,7.04992213 L4.2042616,5.94695804 C4.2042616,5.50424097 4.38025643,5.07965645 4.69352922,4.76660821 C5.00680202,4.45355997 5.4316911,4.27769131 5.87472574,4.27769131 L31.1283966,4.27769131 C32.0509685,4.27769131 32.7988608,5.02504748 32.7988608,5.94695804 L32.7988608,7.05304226 C32.7971386,7.9737341 32.0497505,8.71919047 31.1283966,8.71918886 L30.9847679,8.71918886 L30.9847679,12.9968799 L32.8581857,12.9968799 C35.1456466,12.9968799 37,11.1438556 37,8.85803442 L37,4.13884575 C37,1.85302453 35.1456466,2.94444282e-07 32.8581857,2.94444282e-07 Z" id="Shape" fill-rule="nonzero"></path>
+                    <path d="M8,6 L8,25.6705049 C8,26.4047644 8.61765288,26.9999992 9.37956632,26.9999992 L26.6204329,26.9999992 C26.9864374,27.0003795 27.3375649,26.8604303 27.5963693,26.6110193 C27.8551738,26.3616083 28.0003938,26.0232252 27.9999992,25.6705049 L27.9999992,6 L8,6 Z M18,19.9981153 C13.582548,19.9981153 10,17.312392 10,13.9990576 C10,10.6857233 13.5895288,8 18,8 C22.4104712,8 26,10.6857233 26,13.9990576 C26,17.312392 22.4188482,20 18,20 L18,19.9981153 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+                <text id="ATM" font-family="LibreFranklin-Bold, Libre Franklin" font-size="14" font-weight="bold" letter-spacing="-0.583333254" fill="#864CE2">
+                    <tspan x="17" y="24">ATM</tspan>
+                </text>
+                <text id="€" font-family="OCRF-RegularOSFC" font-size="14" font-weight="normal" fill="#297BF6">
+                    <tspan x="27.58" y="45">€</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

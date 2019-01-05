@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/01-02</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="107.07261%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA000" offset="0%"></stop>
+            <stop stop-color="#FFDE08" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#0090FF" offset="0%"></stop>
+            <stop stop-color="#0915A3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="_sources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/01-02">
+            <g id="02-icon">
+                <g>
+                    <g id="bg-circle-120" fill="url(#linearGradient-1)">
+                        <g>
+                            <circle id="Oval-2" opacity="0.6" cx="60" cy="60" r="60"></circle>
+                            <circle id="Oval-2-Copy-2" opacity="0.4" cx="60" cy="60" r="52"></circle>
+                            <circle id="Oval-2-Copy" cx="60" cy="60" r="42"></circle>
+                        </g>
+                    </g>
+                    <path d="M79.3923107,41.2393976 C79.8710968,41.5876117 80.0669627,42.0518976 79.9799112,42.6322553 L74.4085893,76.0608258 C74.3360455,76.4815851 74.1039076,76.8080359 73.7121731,77.0401795 C73.5090519,77.15625 73.2841679,77.2142859 73.037521,77.2142859 C72.8779257,77.2142859 72.7038226,77.1780133 72.5152092,77.1054694 L62.6565808,73.079242 L57.3899405,79.4994428 C57.1287846,79.8331476 56.773322,80 56.323554,80 C56.1349419,80 55.9753465,79.9709827 55.8447692,79.9129468 C55.5691043,79.8113843 55.3478472,79.6409049 55.180998,79.4015073 C55.0141487,79.1621097 54.9307241,78.8973218 54.9307241,78.6071436 L54.9307241,71.0117194 L73.7339359,47.9642859 L50.4693132,68.0954242 L41.8729373,64.5697553 C41.3361165,64.3666303 41.0459438,63.9676343 41.002418,63.3727686 C40.9734013,62.7924109 41.2055392,62.3643976 41.6988329,62.0887274 L77.912428,41.195871 C78.1300582,41.0652912 78.3621961,41 78.6088429,41 C78.8990169,41 79.1601728,41.0797992 79.3923107,41.2393976 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
